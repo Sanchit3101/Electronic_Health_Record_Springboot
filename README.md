@@ -87,9 +87,6 @@ Endpoint	Method	Description
 /chatbot/ask	POST	Ask medical questions (AI Chatbot)
 /notify/email	POST	Send email via SES
 
-📸 Demo Preview
-
-
 ✍️ Author
 Sanchit Sen
 📧 sensanchita2212@gmail.com
@@ -98,4 +95,14 @@ Sanchit Sen
 
 📢 Let's Connect!
 If you're interested in Java backend development, health tech, cloud-native design, or distributed systems — let’s chat!
+
+
+📸 Demo Preview
+<img width="1919" height="1079" alt="LOGIN_PAGE" src="https://github.com/user-attachments/assets/58905d22-9056-49bc-b9b6-849ac676b8c8" />
+
+<img width="1914" height="1078" alt="index" src="https://github.com/user-attachments/assets/b43f0b6a-5e2f-4493-a7a8-e6545bbf396e" />
+<img width="1919" height="1077" alt="UPLOAD_PAGE" src="https://github.com/user-attachments/assets/c2d868ef-ebb0-4cef-bf68-abe8bad1c25a" />
+<img width="1919" height="1079" alt="PATIENT_SIGNUP" src="https://github.com/user-attachments/assets/38043cf2-35b7-49d5-8cc6-a8c5e710a41d" />
+<img width="1914" height="1077" alt="doctor_signup" src="https://github.com/user-attachments/assets/24e9553b-f699-4e38-ae9f-0988b7432cf1" />
+
 
